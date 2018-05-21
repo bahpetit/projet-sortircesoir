@@ -33,7 +33,7 @@ https://travis-ci.org/Master-DL/projet-ivvq-2017-2018-bfml
 
 # DEPLOIEMENT
 
-https://sortir-ce-soir.herokuapp.com/
+https://projet-sortir-ce-soir.heroku.com/
 
 # SONARCLOUD
 
